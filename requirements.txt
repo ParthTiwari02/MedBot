@@ -57,7 +57,6 @@ nltk==3.7
 numpy==1.21.6
 oauth2client==4.1.3
 oauthlib==3.2.1
-object-detection @ file:///C:/Users/asus/PycharmProjects/TFOD/models/research
 opencv-python==4.5.4.60
 opencv-python-headless==4.5.4.60
 opt-einsum==3.3.0
